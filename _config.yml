@@ -1,4 +1,3 @@
-layout_spectrum: 0.7300242357887328
 typography_spectrum: 0.11454869201406837
 color:
   brandStrength: 0.4964063751976937
@@ -11,8 +10,14 @@ color:
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
-name: peggyiswriting
+layout_spectrum: 0.7300242357887328
 author:
   name: Peggy Carpenter
   email: peggyleecarpenter@gmail.com
   url: peggyleecarpenter.com
+name: peggyiswriting
+navigation:
+  - id: 'http://peggyleecarpenter.com'
+    url: 'http://peggyleecarpenter.com'
+    name: My Existing Site
+    type: external
